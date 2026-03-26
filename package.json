@@ -2,8 +2,8 @@
   "name": "alticcio-sommelier",
   "version": "1.0.0",
   "scripts": {
-    "build": "vite build",
     "dev": "vite"
+    "build": "vite build",
   },
   "dependencies": {
     "react": "^18.2.0",
